@@ -1,10 +1,10 @@
 # GitHub Actions CI/CD Pipeline
 
-## 📌 Overview
+## Overview
 
 This repository contains hands-on projects and CI/CD pipelines built using **GitHub Actions** to automate software build, testing, and deployment processes.
 
-## 🛠️ Technologies
+## Technologies
 
 - Git & GitHub
 - GitHub Actions
@@ -13,7 +13,7 @@ This repository contains hands-on projects and CI/CD pipelines built using **Git
 - YAML
 - CI/CD
 
-## 🎯 Objectives
+## Objectives
 
 - Learn and implement GitHub Actions workflows.
 - Automate build and testing processes.
@@ -21,7 +21,7 @@ This repository contains hands-on projects and CI/CD pipelines built using **Git
 - Implement security scanning and deployment automation.
 - Explore DevOps best practices.
 
-## 📂 Project Structure
+## Project Structure
 
 ```text
 .github/
@@ -31,11 +31,11 @@ This repository contains hands-on projects and CI/CD pipelines built using **Git
 README.md
 ```
 
-## 🚀 Project Status
+## Project Status
 
 🚧 **In Progress** — More CI/CD workflows and automation examples will be added progressively.
 
-## 👨‍💻 Author
+## Author
 
 **Utkarsh Raghav**
 
