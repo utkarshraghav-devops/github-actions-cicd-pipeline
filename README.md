@@ -33,7 +33,7 @@ README.md
 
 ## Project Status
 
-🚧 **In Progress** — More CI/CD workflows and automation examples will be added progressively.
+**In Progress** — More CI/CD workflows and automation examples will be added progressively.
 
 ## Author
 
